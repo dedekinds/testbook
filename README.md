@@ -4,3 +4,7 @@ This file file serves as your book's preface, a great place to describe your boo
 
 This is a test for gitbook
 
+日本語のテスト
+
+中文测试
+
