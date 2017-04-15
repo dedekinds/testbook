@@ -20,14 +20,14 @@
 
 对于一个学习算法$$A_a$$，若它在某些问题上比学习算法好$$A_b$$，则必然存在某些问题，在那儿算法$$A_b$$比算法$$A_a$$要好。
 
-
-
 即考虑样本空间$$\mathcal{X}$$和假设空间$$\mathcal{H}$$都是离散的，用$$P(h|X,A_a)$$来表示算法$$A_a$$基于训练数据$$X$$产生假设$$h$$的概率，那么算法在训练集以外的误差为：（主要我们看的是在训练集外的性能，成为泛化性）
 
 
 $$
 E_{ote}(A_a|A,f)=\sum_h\sum_{x\in \mathcal{X}-X} P(x)\cdot I(h(x)\neq f(x))P(h|X,A_a)
 $$
+
+
 可以证明在$$f$$满足均匀分布的时候，有$$\sum_f E_{ote}(A_a|X,f)=\sum_f E_{ote}(A_b|X,f)$$。
 
 在林的课程里用了这个例子：
@@ -35,16 +35,4 @@ $$
 ![](/assets/5CRW6R1QEIR8{XXQ5%28@4_3F.png)
 
 [http://beader.me/mlnotebook/section2/is-learning-feasible.html ](http://beader.me/mlnotebook/section2/is-learning-feasible.html)中的2.1节对此描述很详细
-
-
-
-
-
-
-
-
-
-
-
-
 
