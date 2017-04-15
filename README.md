@@ -8,6 +8,8 @@ This is a test for gitbook
 
 中文测试
 
+upload test
+
 
 $$
 \sum_{i=5}^nx_i \leq 6
