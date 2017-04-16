@@ -8,5 +8,7 @@
 * [http://blog.csdn.net/a1015553840/article/details/51085129](http://blog.csdn.net/a1015553840/article/details/51085129)（习题参考）
 * [https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)（课程地址）
 
+需要再好好努力理解后再整理呐
+
 
 
